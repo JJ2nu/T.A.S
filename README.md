@@ -1,4 +1,4 @@
-# exported from previous account
+ exported from previous account
 # T.A.S
 유해 텍스트 필터링 플러그인
 
